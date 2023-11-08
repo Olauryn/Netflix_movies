@@ -98,7 +98,6 @@ plt.title("Movie Duration by Year of Release")
 
 plt.show()
 
-
 <img width="513" alt="Screenshot 2023-11-08 052150" src="https://github.com/Olauryn/Netflix_movies/assets/118401566/d279c52e-fba1-443f-9fc5-3c7f162d65d1">
 
 
