@@ -12,29 +12,32 @@ and explain some of the contributing factors, if any.
 The data
 netflix_data.csv
 
-Column	Description
+Column:	Description
 
-show_id	The ID of the show
+show_id: The ID of the show
 
-type	Type of show
+type: Type of show
 
-title	Title of the show
+title: Title of the show
 
-director	Director of the show
+director: Director of the show
 
-cast	Cast of the show
+cast: Cast of the show
 
-country	Country of origin
+country: Country of origin
 
-date_added	Date added to Netflix
+date_added:	Date added to Netflix
 
-release_year	Year of Netflix release
+release_year:	Year of Netflix release
 
-duration	Duration of the show in minutes
+duration:	Duration of the show in minutes
 
-description	Description of the show
+description:	Description of the show
 
-genre	Show genre
+genre:	Show genre
+
+
+## QUESTIONS
 
 ### SOLUTION
 
@@ -94,6 +97,10 @@ plt.ylabel("Duration (min)")
 plt.title("Movie Duration by Year of Release")
 
 plt.show()
+
+
+<img width="513" alt="Screenshot 2023-11-08 052150" src="https://github.com/Olauryn/Netflix_movies/assets/118401566/d279c52e-fba1-443f-9fc5-3c7f162d65d1">
+
 
 
 
