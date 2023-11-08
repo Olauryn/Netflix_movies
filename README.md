@@ -104,3 +104,5 @@ plt.show()
 
 
 answer = "maybe"
+
+From the scatter plot, it is not certain if the average movies duration has declinedn or not as we have clusters below and above the 60 minutes duration
