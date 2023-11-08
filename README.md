@@ -1,5 +1,6 @@
 # Netflix_movies
-![Movie popcorn on red background](redpopcorn.jpg)
+<img width="603" alt="Screenshot 2023-11-08 052122" src="https://github.com/Olauryn/Netflix_movies/assets/118401566/624a9871-3733-4d01-bc9e-852162264416">
+
 ## PROBLEM STATEMENT
 Netflix! What started in 1997 as a DVD rental service has since exploded into one of the largest entertainment and media companies.
 Given the large number of movies and series available on the platform, it is a perfect opportunity to flex your exploratory data analysis skills and dive into the entertainment industry.
